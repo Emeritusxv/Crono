@@ -12,7 +12,6 @@ You will be required to make the following saves states through the game:
 
 47 stars: For all the dreamers
 
-RUN
 
 Arni Village
 
