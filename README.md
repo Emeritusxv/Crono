@@ -80,8 +80,10 @@ Cape Howl
 
 	-backup Humour, Beachbums (Cape Howl) need 2 if no Ivory Vest
 	-to Fossil Valley
-	-Skelly
-	-Big Egg
+Skelly
+
+Big Egg
+	
 
 Fossil Valley
 
