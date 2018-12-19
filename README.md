@@ -2,17 +2,17 @@
 
 
 
-You will be required to make the following saves states through the game:
+You will be required to make 5 saves states through the game:
 
-3: stars The Port Town of Termine 
+First: 3 stars The Port Town of Termine 
 
-8: stars Guldove where ripples become waves
+Second: 8 stars Guldove where ripples become waves
 
-22: stars The village of the demi humans
+Third: 22 stars The village of the demi humans
   
-26: A Portal Reopened 
+Fourth: 26 stars A Portal Reopened 
 
-47 stars: For all the dreamers
+Fifth: 47 stars For all the dreamers
  
 
 Arni Village
