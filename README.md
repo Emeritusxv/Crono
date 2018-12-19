@@ -1,7 +1,7 @@
 # Crono 
 
 
-You will be required to make the following saves states through the game:
+You will be required to make the following saves states throughout the game:
 3: stars The port town of termina (33:45) Getting Kid
 8: stars Guldove where ripples(1:10:19) Forced Menu after Lynx
 22: stars The village of the demi humans (3:25:23) After Toma
