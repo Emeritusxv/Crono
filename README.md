@@ -15,7 +15,8 @@ Fifth: (Another?) (World Map Opassa Beach) 47 stars For all the dreamers
  
 Arni Village
 
-        -Shark Tooth
+        
+	-Shark Tooth
 	-Shop
 			-2 Fireballs
 
