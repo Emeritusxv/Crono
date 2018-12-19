@@ -4,15 +4,15 @@
 
 You will be required to make 5 saves states through the game:
 
-First: 3 stars The Port Town of Termine 
+First: (Termina) 3 stars The Port Town of Termina
 
-Second: 8 stars Guldove where ripples become waves
+Second: (Guldove) 8 stars Guldove where ripples become waves
 
-Third: 22 stars The village of the demi humans
+Third: (World map Zelbless) 22 stars The village of the demi humans
   
-Fourth: 26 stars A Portal Reopened 
+Fourth: (World Map Guldove) 26 stars A Portal Reopened 
 
-Fifth: 47 stars For all the dreamers
+Fifth: (Another?) (World Map Opassa Beach) 47 stars For all the dreamers
  
 
 Arni Village
