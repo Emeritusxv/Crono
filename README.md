@@ -860,7 +860,7 @@ Manor Escape
 Isle of the Damned/Hermits Hideaway
 
 	-Solt (8 AP) and Peppor (10 AP) – 945/Denadorite/Stone Vest, 1050/Denadorite/Stone Mail
-	        -Fargo 1/1/2/2 Pillage Peppor
+	        -Fargo 1/1/2/2 Pillage Peppor(Need Forget-Me-Not-Pot else run)
 			-Lynx 1 Strengthen Karsh
 			-Harle 1 EagleEyle Karsh
 			-Lynx AeroBlaster-3 @Peppor
