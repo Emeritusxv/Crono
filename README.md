@@ -1,7 +1,6 @@
 #All Characters
 
 
-
 You will be required to make 5 saves states through the game:
 
 First: (Termina) 3 stars The Port Town of Termina
@@ -14,7 +13,6 @@ Fourth: (World Map Guldove) 26 stars A Portal Reopened
 
 Fifth: (Another?) (World Map Opassa Beach) 47 stars For all the dreamers
  
-
 Arni Village
 
     -Get Shark Tooth
@@ -753,7 +751,7 @@ Dead Sea
 
 	-cut scene (1:30)
 	
-	- Save State (4th Save State)
+	- Save State on World Map (4th Save State)
 	
 	-to Guldove
 
@@ -1489,7 +1487,7 @@ Terra Tower / End
 				1 – ChronoCross-7
 				
 				
-    - Save State (5th one Final?)
+    - Save State on world map (Another?) (5th save state)
 
 	-to Opassa Beach
 
@@ -1508,19 +1506,24 @@ Terra Tower / End
 		-Serge TurnWhite
         -Serge Chrono Cross
 		
-	-Continue -- Continue + (2nd Save state 8 stars)
+	Continue -- Continue + (2nd Save state, 8 stars)
 	
-	-Save Kid Route
+	Save Kid Route
 	
 	   -Save Razzly
 	   -Defeat Hydra
 	   
-    -Opassa Beach(Another World)
+    Opassa Beach(Another World)
 	   
 	   -Arni Village
 	   -Mojo
-	
-    -Guldove
+	   
+	Hydra Marshes
+	   
+	   -Hydra area for Life Sparkle
+	   -Down toward exit to find Good Backbone
+	   
+    Guldove
 	
 	   -2nd option 2nd time when talking about the Elements(Do not overmash)
 	   -To Orlha
@@ -1530,19 +1533,19 @@ Terra Tower / End
 	   
 	-Time Devourer Reset (4th Save State A Portal Reopened)
 	   
-	-To Zelbless
+	Zelbless
 	   -Go to speak with Nikki
 	   -Irenes
 	   -Van (Home World)   
 	   
-	-Opassa Beach (Another World)
+	Opassa Beach (Another World)
 	
 	   -Viper Manor route
 	   -Grobyc
 	   -Switch Sprigg for Grobyc
 	   -Switch Grobyc for Fargo
 	   
-	-Opassa Beach (Home World)
+	Opassa Beach (Home World)
 	   -Sneff (don't talk to Fargo lul)
 	   -Talk to Fargo
 	   -Clear Lagoonates (9?)
@@ -1566,29 +1569,25 @@ Terra Tower / End
 	   
     -Time Devourer Reset (5th Save State)
 	
-	-Viper Manor
+	Viper Manor
 	   
 	   -Get Luccia
 	   -(Neo Fio?)
 	
-	-Hermit's Hideaway
+	-ermit's Hideaway
 	
 	   -Talk to Kid
 	   -Stairs left to room to get Ice Gun
 	   -Stairs right to go down
 	   -Ice gun wall of fire
 	   
-    -Guldove
+    Guldove
 	   
 	   -Show Orlha Sapphire Brooch
 	   
-	-Water Dragon Isle (Ribcage)
-	   
-    -Hyrdra Marshes
-	   -Hydra area for Life Sparkle
-	   -Down toward excit to find Good Backbone
-	   
-	-Shadow Forest
+	Water Dragon Isle (Ribcage)
+
+	Shadow Forest
 	   -Angry Scapula (Read old note where Nikki was recruited)  
 	   
 	-Termina
@@ -1653,5 +1652,7 @@ Terra Tower / End
 	
 	   
 	    
+	   
+	   
 	   
 	   
