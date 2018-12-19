@@ -1,5 +1,6 @@
 #All Characters
 You will be required to make the following saves states through the game:
+
 3: stars The port town of termina Getting Kid
 
 8: stars Guldove where ripples become waves
