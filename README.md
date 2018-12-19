@@ -494,12 +494,15 @@ Dragonia Lower
 			-Leena 1 FrogPrince
 
 Dragonia Elevator/Upper
--SunofaGun (7 AP) – 383/Iron/Iron
+
+        -SunofaGun (7 AP) – 383/Iron/Iron
 			-Serge 1/1 (LV2)
 			-Leena 3/3 (mash) then 1 if one 3/3 miss (LV5)
--(Backup for Leena/Serge Frozen)
-					-Glenn 1/x (LV5) Panacea
-					-Defend All
+                        
+			-((Backup for Leena/Serge Frozen)
+		        -Glenn 1/x (LV5) Panacea
+			-Defend All))
+			
 			-Serge TurnBlue
 			-Glenn 1 TurnBlue
 			-Serge AquaBall-2
