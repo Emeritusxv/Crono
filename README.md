@@ -15,7 +15,7 @@ Fifth: (Another?) (World Map Opassa Beach) 47 stars For all the dreamers
  
 Arni Village
 
-    -Get Shark Tooth
+        -Shark Tooth
 	-Shop
 			-2 Fireballs
 
@@ -80,13 +80,12 @@ Cape Howl
 
 	-backup Humour, Beachbums (Cape Howl) need 2 if no Ivory Vest
 	-to Fossil Valley
-Skelly
-
-Big Egg
 	
 
 Fossil Valley
 
+	-Skelly
+	-Big Egg
 	-Solt and Peppor
 	-Solt (7 AP) – 84/Copper/ElectroJolt
 			-Leena 3/3
