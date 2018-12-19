@@ -626,7 +626,7 @@ Dimension through Marbule
 	-to Marbule
 	-talk to Toma (2nd option)
 	
-	-Save State after Toma (3rd Save State)
+Save State after Toma (3rd Save State)
 
 	-to Zelbess
 
