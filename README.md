@@ -1,16 +1,11 @@
 #All Characters
 
 You will be required to make the following saves states through the game:
-
-3: stars The Port Town of Termina
-
-8: stars Guldove where ripples become waves
-
-22: stars The village of the demi humans
-
-26: A Portal Reopened
-
-47 stars: For all the dreamers
+3: stars The port town of termina (33:45) Getting Kid
+8: stars Guldove where ripples(1:10:19) Forced Menu after Lynx
+22: stars The village of the demi humans (3:25:23) After Toma
+26: A Portal Reopened (4:19:34) After Miguel
+47 stars: For all the dreamers (8:28:38) Before Time Devourer 
 
 
 Arni Village
@@ -664,6 +659,7 @@ SS Zelbess
 Isle of the Damned
 
 	-Harle First
+	-Mixed Bones
 
 	-Will O’ Wisp (21 AP) 200 HP
 			Note: kill will o’ wisps first, because confusion
@@ -1579,6 +1575,8 @@ Terra Tower / End
 	   
 	   -Show Orlha Sapphire Brooch
 	   
+	-Water Dragon Isle (Ribcage)
+	   
     -Hyrdra Marshes
 	   -Hydra area for Life Sparkle
 	   -Down toward excit to find Good Backbone
@@ -1648,7 +1646,5 @@ Terra Tower / End
 	
 	   
 	    
-	   
-	   
 	   
 	   
