@@ -1,4 +1,5 @@
-#All CharactersYou will be required to make the following saves states through the game:
+#All Characters
+You will be required to make the following saves states through the game:
 3: stars The port town of termina (33:45) Getting Kid
 8: stars Guldove where ripples(1:10:19) Forced Menu after Lynx
 22: stars The village of the demi humans (3:25:23) After Toma
@@ -852,6 +853,7 @@ Manor Escape
 Isle of the Damned/Hermits Hideaway
 
 	-Solt (8 AP) and Peppor (10 AP) – 945/Denadorite/Stone Vest, 1050/Denadorite/Stone Mail
+	        -Fargo 1/1/2/2 Pillage Peppor
 			-Lynx 1 Strengthen Karsh
 			-Harle 1 EagleEyle Karsh
 			-Lynx AeroBlaster-3 @Peppor
@@ -969,7 +971,11 @@ Dario
 				-Dreamer’s Scarf (remove Dragoon's Honor)
 			-Fargo
 				-Stone Sword
-				-Dreamer’s Scarf, Mythril Helmet
+				-Dreamer’s Scarf, Mythril Helmet, Forget-Me-Not-Pot
+				
+				*((List for Forget me not pot: Fossicker, Yellow Belly
+				Rockroach, Sidesteppa))
+				
 			-Lynx
 				-(add) Dragoon's Honor
 		-Elements
@@ -991,7 +997,7 @@ Earth Dragon Isle
 
 	-Rockroach (21 AP) - 515/Denadorite/Carapace
 	-YellowBelly (21 AP) – 621/Numble/Humour
-
+	
 		(2x Rockroach or 1+YellowBelly)
 			-Marcy EagleEye Lynx
 			-Fargo TurnGreen Lynx
@@ -1000,6 +1006,8 @@ Earth Dragon Isle
 			-Lynx 3/3
 			+Yellowbelly
 				-Lynx 1/3 or GlideHook
+				
+			-Forget-Me-Not-Pot: Fossicker, Yellowbelly, Rockroach	
 	
 	-Earth Dragon (9 AP) – 2945/ThundaSnake
 		(Lynx >29 STR)
@@ -1036,6 +1044,7 @@ Water Dragon Isle / El Nido Triangle
 				-Marcy TurnRed Lynx
 				-Fargo Strengthen Lynx
 				-Lynx 2/2/3
+				-Forget-Me-Not-Pot Sidesteppa
 
 	-Water Dragon (10 AP) – 2660/BlueWhale
 			-(Lynx 33 STR)
@@ -1077,6 +1086,7 @@ Hydra Marsh / Gaea’s Navel
 				-Lynx 1/2/3
 				-Fargo 3/3
 				-Lynx 2/2/2 GlideHook
+				-Forget-Me-Not-Pot on PreyMantis
 			
 		-Pterodact (21 AP) – 750/Inferno/Earring of Light
 			-Fargo TurnBlue Lynx
@@ -1529,7 +1539,7 @@ Terra Tower / End
 	   -Talk to Fargo
 	   -Clear Lagoonates (9?)
 	   -Miki
-	   ((-Sneff?))
+	   ((-Sneff (?))
 	   
 	-Time Devourer Reset (1st Save State)
 	
