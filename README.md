@@ -1005,6 +1005,8 @@ Earth Dragon Isle
 	-Rockroach (21 AP) - 515/Denadorite/Carapace
 	-YellowBelly (21 AP) – 621/Numble/Humour
 	
+	    (Need Forget-Me-Not-Pot on Fossicker, Yellowbelly, Rockroach)
+	    
 		(2x Rockroach or 1+YellowBelly)
 			-Marcy EagleEye Lynx
 			-Fargo TurnGreen Lynx
@@ -1014,7 +1016,6 @@ Earth Dragon Isle
 			+Yellowbelly
 				-Lynx 1/3 or GlideHook
 				
-			-Forget-Me-Not-Pot: Fossicker, Yellowbelly, Rockroach	
 	
 	-Earth Dragon (9 AP) – 2945/ThundaSnake
 		(Lynx >29 STR)
@@ -1039,7 +1040,10 @@ Earth Dragon Isle
 Water Dragon Isle / El Nido Triangle
 
 	-SideSteppa (21 AP) – 680/Carapace/CureAll
-			-(Lynx 32)
+	
+	         (Need Forget-Me-Not-Pot on Sidesteppa)
+		 
+	  		-(Lynx 32)
 				-Marcy TurnRed Lynx
 				-Lynx 2/2/2 GlideHook
 			-(else)
@@ -1051,7 +1055,7 @@ Water Dragon Isle / El Nido Triangle
 				-Marcy TurnRed Lynx
 				-Fargo Strengthen Lynx
 				-Lynx 2/2/3
-				-Forget-Me-Not-Pot Sidesteppa
+				
 
 	-Water Dragon (10 AP) – 2660/BlueWhale
 			-(Lynx 33 STR)
@@ -1081,6 +1085,7 @@ Hydra Marsh / Gaea’s Navel
 
 	-Enemy fights
 		Note: run if Prehysteric’s with PreyMantis
+		(Need Forget-Me-Not-Pot on PreyMantis)
 
 		-PreyMantis – (21 AP) 610/Feather/Sonja Trap
 			-1
@@ -1093,7 +1098,6 @@ Hydra Marsh / Gaea’s Navel
 				-Lynx 1/2/3
 				-Fargo 3/3
 				-Lynx 2/2/2 GlideHook
-				-Forget-Me-Not-Pot on PreyMantis
 			
 		-Pterodact (21 AP) – 750/Inferno/Earring of Light
 			-Fargo TurnBlue Lynx
