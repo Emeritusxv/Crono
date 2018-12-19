@@ -628,8 +628,6 @@ Dimension through Marbule
 	
 Save State after Toma (3rd Save State)
 
-	-to Zelbess
-
 SS Zelbess
 
 	-if Fargo's Pointer lands on East, just hold X to lose
