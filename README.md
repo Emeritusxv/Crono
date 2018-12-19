@@ -182,6 +182,7 @@ Viper Manor
 			-Kid 2/2/3
 			-HEAL
 
+	-Save pip 
 	-pickup Dragoon’s Gauntlet
 
 	-Equip
@@ -231,7 +232,7 @@ Viper Manor
 			-Elements
 				- Pierre – remove all
 
-		-Save State after forced menu (Save State 2)						
+Save State after forced menu (Save State 2)						
 
 Guldove/Termina/Marbule
 	
