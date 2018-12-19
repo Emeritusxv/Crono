@@ -1,7 +1,4 @@
-# Crono 
-
-
-You will be required to make the following saves states throughout the game:
+#All CharactersYou will be required to make the following saves states through the game:
 3: stars The port town of termina (33:45) Getting Kid
 8: stars Guldove where ripples(1:10:19) Forced Menu after Lynx
 22: stars The village of the demi humans (3:25:23) After Toma
@@ -1492,3 +1489,151 @@ Terra Tower / End
 		-Fargo Genius
 		-Serge TurnWhite
         -Serge Chrono Cross
+		
+	-Continue -- Continue + (2nd Save state 8 stars)
+	
+	-Save Kid Route
+	
+	   -Save Razzly
+	   -Defeat Hydra
+	   
+    -Opassa Beach(Another World)
+	   
+	   -Arni Village
+	   -Mojo
+	
+    -Guldove
+	
+	   -2nd option 2nd time when talking about the Elements(Do not overmash)
+	   -To Orlha
+	   -To Shrine
+	   -Talk to Glenn
+	   -Mel
+	   
+	-Time Devourer Reset (4th Save State A Portal Reopened)
+	   
+	-To Zelbless
+	   -Go to speak with Nikki
+	   -Irenes
+	   -Van (Home World)   
+	   
+	-Opassa Beach (Another World)
+	
+	   -Viper Manor route
+	   -Grobyc
+	   -Switch Sprigg for Grobyc
+	   -Switch Grobyc for Fargo
+	   
+	-Opassa Beach (Home World)
+	   -Sneff (don't talk to Fargo lul)
+	   -Talk to Fargo
+	   -Clear Lagoonates (9?)
+	   -Miki
+	   ((-Sneff?))
+	   
+	-Time Devourer Reset (1st Save State)
+	
+	   -Nikki
+	   
+    -Time Devourer Reset (1st Save state)
+	
+	   -Guile
+	   
+	-Time Devourer Reset (3rd Save State Marbule Village of ...)
+	
+	   -This is only to kill Time Devourer With Harle in your party
+	   
+   ((This is if you did not get sneff-Time Devourer Reset 4th save state))
+        ((Sneff))	
+	   
+    -Time Devourer Reset (5th Save State)
+	
+	-Viper Manor
+	   
+	   -Get Luccia
+	   -(Neo Fio?)
+	
+	-Hermit's Hideaway
+	
+	   -Talk to Kid
+	   -Stairs left to room to get Ice Gun
+	   -Stairs right to go down
+	   -Ice gun wall of fire
+	   
+    -Guldove
+	   
+	   -Show Orlha Sapphire Brooch
+	   
+    -Hyrdra Marshes
+	   -Hydra area for Life Sparkle
+	   -Down toward excit to find Good Backbone
+	   
+	-Shadow Forest
+	   -Angry Scapula (Read old note where Nikki was recruited)  
+	   
+	-Termina
+	   -Skelly
+	   -Greco
+	   
+	((This is if you did not get Neo Fio/Luccia: Viper Manor))
+	   ((-Neo Fio (Life Sparkle)) 
+	   
+    -Opassa Beach(Home World)
+	
+	   -Shadow Forest
+	   -Mushroom in cave to Viper Manor (Save guy in hole)
+	   -Funguy (Where Nikki is recruited)
+	   
+	-Hermit's Hideaway
+	
+	   -Poshul in party
+	   -Turnip (Press x)
+	   
+    -Zelbless (Grand Slam)
+	
+	   -Round One: Lagoonate, Puffy, PreyMantis
+	   -Order: Beeba, Taurminator, Gloop
+	   
+	   -Round Two: WightKnight, Sidesteppa, CatBurgler
+	   -Order: Spearfisher, Cybot, Gobledygook
+	   
+	   -Round Three: Fossicker, Rockroach, YellowBelly
+	   -Order: Airframe, Cuscus, Crosswary
+	   
+	-Divine Dragon Falls
+	   -Get Chrono Cross
+	   
+	   ((Re Do Side mission With Kid?))
+	    ((-Left, Ice gun
+		 -Right , down
+		 -Ice gun Fire wall))
+		 
+    -Opassa Beach (Home World)
+	 
+	-Hyrda Marshes
+		-Sprigg's House
+		-Chrono Cross
+		
+    -Opassa Beach
+	    -Good Ending
+		((-Serge 1/1/1 (LV3)
+		-Glenn 1 (LV2)
+		-Fargo 1 (LV2)
+		-Defend All until attack
+
+		-Serge TurnYellow
+		-Glenn Strengthen-3
+		-Fargo TurnGreen
+		-Glenn TurnBlue
+		-Fargo Genius
+		-Serge TurnWhite
+        -Serge Chrono Cross))
+		
+		
+	
+	   
+	    
+	   
+	   
+	   
+	   
